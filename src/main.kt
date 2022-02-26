@@ -1,9 +1,9 @@
 fun main(){
     var string ="akirachix"
-    var char1="a"
-    var char3="i"
-    var char4="r"
-    var result ="a"+"i"+"r"
+    var char1=string[0]
+    var char3=string[2]
+    var char4=string[3]
+    var result ="$char1$char3$char4"
     println(result)
 
     var name="liz"
@@ -22,8 +22,7 @@ fun length(){
     println(bus.length)
 
 }
-fun number3(){
-
+fun number(){
 }
 fun sentence(){
     var returnSentence = "Thats me"
