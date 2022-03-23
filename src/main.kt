@@ -2,13 +2,13 @@ fun main(){
     var string ="akirachix"
     var char1=string[0]
     var char3=string[2]
-    var char4=string[3]
+    var char4=string[4]
     var result ="$char1$char3$char4"
     println(result)
 
     var name="liz"
     var age="sixty years"
-    var total="Hy my name is"+" "+"liz"+" and i am"+ " "+"sixty years old"
+    var total="Hy my name is"+" "+"bena"+" and i am"+ " "+"sixty years old"
     println(total)
 length()
     sentence()
